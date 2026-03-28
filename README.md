@@ -1,6 +1,4 @@
 # idk
----
-
 ## Features
 *   ✅ **Auto-Connect**: automaticamente entra no servidor.
 *   ✅ **Infinite Uptime**: previne expulsão de afk.
